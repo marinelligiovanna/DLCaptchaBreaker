@@ -1,0 +1,2 @@
+CaptchaBreaker/.idea/*
+CaptchaBreaker/venv/*
