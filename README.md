@@ -1,7 +1,7 @@
 Deep Learning Captcha Breaker
 ===================
 
-Convolutional Neural Network (CNN) is a type of deep artificial neural network that has been successfully applied to solve many image-processing problems. It can be used to identify faces, objects, animals, recognize traffic signs in self-driven cars and many other applications. Here we are going to use a CNN to solve one of the most basic tasks in machine learning: The character recognition. We will use it to break a simple numeric Captcha.
+Convolutional Neural Network (CNN) is a type of deep artificial neural network that has been successfully applied to solve many image-processing problems. It can be used to identify faces, objects, animals, recognize traffic signs in self-driven cars and many other applications. Here I've used a CNN to solve one of the most basic tasks in machine learning: The character recognition. It is used to break a simple numeric Captcha.
 
 This simple project was built to solve a real problem, where I had to build a Web Scrapping code to gather some desired information. My first solution included to call 2Captcha API, a russian service that uses human labor to return the captcha answer as text. My second attempt was to learn some Deep Learning techniques, which I've used to build this simple algorithm.
 
